@@ -2,6 +2,8 @@
 ### >This website is a SPA(Single Page Application) work on rest api's.
 ### >Spa website feels like a native Application.
 ### >[Google Drive video link here](https://drive.google.com/file/d/1olS-lFxHFeG9PED4-dCg3uE63ONCeZjo/view?usp=sharing).
+## 📽Video
+https://user-images.githubusercontent.com/68294675/178300533-ec16d5f6-6691-4730-be50-17f628e71e22.mp4
 # 🌄Screenshots-
 ## 🤵Login:
 ![Login](https://user-images.githubusercontent.com/68294675/178289749-41246320-110f-4eb3-8e96-a0aa75641d20.png)
@@ -23,6 +25,5 @@
 ## 🛠Some Api's
 ![Api's](https://user-images.githubusercontent.com/68294675/178294223-212604c1-9ef7-41a7-a99f-f2d2647077f0.png)
 
-## 📽Video
-https://user-images.githubusercontent.com/68294675/178300533-ec16d5f6-6691-4730-be50-17f628e71e22.mp4
+
 
