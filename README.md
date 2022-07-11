@@ -10,10 +10,10 @@ https://user-images.githubusercontent.com/68294675/178300533-ec16d5f6-6691-4730-
 -------------------------
 ## 🏠Home Page:
 ![Homepage screenshot](https://user-images.githubusercontent.com/68294675/178289774-cf2fe33c-61e9-42fd-9bb2-476cecb513d4.png)
-![Homepage screenshot](https://user-images.githubusercontent.com/68294675/178289794-10810a5e-833c-4cb7-a4b8-b0810727cc6e.png)
 -------------------------
 ## 📝Create New Post:
 ![create new post](https://user-images.githubusercontent.com/68294675/178289814-da882a65-68d0-47f6-87ac-d29f3451ded2.png)
+## New Post:
 ![New post](https://user-images.githubusercontent.com/68294675/178289844-f2c81432-cfb6-4e5f-8890-5b6389301860.png)
 -------------------------
 ## 🖋Edit Profile:
