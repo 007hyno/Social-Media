@@ -1,7 +1,7 @@
-# Social-Media
-### >This website is a SPA(Single Page Application) work on rest api's.
-### >Spa website feels like a native Application.
-### >[Google Drive video link here](https://drive.google.com/file/d/1olS-lFxHFeG9PED4-dCg3uE63ONCeZjo/view?usp=sharing).
+# About 
+### This website is a SPA(Single Page Application) work on rest api's.
+### Spa website feels like a native Application.
+#### [Google Drive video link ](https://drive.google.com/file/d/1olS-lFxHFeG9PED4-dCg3uE63ONCeZjo/view?usp=sharing).
 ## 📽Video
 https://user-images.githubusercontent.com/68294675/178300533-ec16d5f6-6691-4730-be50-17f628e71e22.mp4
 # 🌄Screenshots-
