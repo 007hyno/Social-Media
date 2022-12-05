@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/68294675/178300533-ec16d5f6-6691-4730-
 ## 📊Database
 ![Database](https://user-images.githubusercontent.com/68294675/178291872-b2e51eab-65b1-4644-9b15-47f693a25939.png)
 -------------------------
-## 🛠Some Api's
+## 🛠Some Hand made Api's
 ![Api's](https://user-images.githubusercontent.com/68294675/178294223-212604c1-9ef7-41a7-a99f-f2d2647077f0.png)
 
 
